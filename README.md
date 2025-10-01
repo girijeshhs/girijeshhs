@@ -46,12 +46,12 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girijeshhs&theme=radical&hide_border=true&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=girijeshhs&theme=radical&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" height="165"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=girijeshhs&theme=radical&hide_border=true" height="165"/>
 </p>
+
 
 
 
