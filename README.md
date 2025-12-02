@@ -10,8 +10,6 @@ My main setup leans toward **React, Node.js, Python**, and whatever tools help m
 
 I’ve got a bunch of pinned projects, and each one taught me something different about how to design, think, or build better.
 
-I haven’t hit 100 public repos yet — but the private experiments? …yeah, that number’s growing fast.
-
 If you’re curious about how I build or think through projects, feel free to explore what's here.
 
 #### Fun Facts:
