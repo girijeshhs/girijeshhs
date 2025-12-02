@@ -3,6 +3,7 @@
 I’m **Girijesh**, a developer from India who likes building things that feel clean, fast, and purposeful.
 
 If something catches my interest, I usually end up turning it into a project — whether it’s AI, web dev, or something experimental.  
+
 If an idea feels worth exploring, I’ll build it, refine it, and ship it.
 
 My main setup leans toward **React, Node.js, Python**, and whatever tools help me move from idea → prototype → working build without friction.
