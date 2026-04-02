@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=00FF9D&background=00000000&center=true&vCenter=true&width=900&lines=Hi,+I'm+Girijesh+S;AI+%26+Full-Stack+Engineer;Hackathon+Winner+%7C+CGPA+9.65;Building+Real-World+AI+Systems" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=120&section=header&text=GIRIJESH%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
 </div>
 
 ---
@@ -77,11 +75,6 @@
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=girijeshhs&theme=dark&hide_border=true&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=100&section=footer" width="100%"/>
     </td>
   </tr>
 </table>
