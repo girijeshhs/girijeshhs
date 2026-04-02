@@ -57,57 +57,6 @@
 
 ---
 
-### Projects
-
-<div align="center">
-<table width="860px">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>SentriChain</h4>
-      <p>Agentic AI system for procurement teams to query supply-chain risks in natural language. Orchestrated multi-agent pipelines with Semantic Kernel + Azure OpenAI + live Bing Search. Backed by Azure SQL & Blob Storage with Next.js + Tailwind frontend and Prometheus observability.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>PCB Defect Detection</h4>
-      <p>Real-time manufacturing defect detection system using YOLO, capable of identifying faults from board images automatically. Awarded 3rd place at the EEC Hackathon, competing across all departments.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>AgriThrive</h4>
-      <p>Full-stack AI agriculture platform for crop recommendations, fertilizer guidance, and live commodity market prices. Integrated OpenWeatherMap, data.gov.in, and SoilGrids APIs with an in-app AI chatbot for farmers.</p>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-### The Arsenal
-
-**Languages**
-
-Python &nbsp;|&nbsp; Java &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript
-
-**AI & Machine Learning**
-
-LLM Models &nbsp;|&nbsp; RAG &nbsp;|&nbsp; YOLO &nbsp;|&nbsp; Semantic Kernel &nbsp;|&nbsp; Azure OpenAI &nbsp;|&nbsp; Computer Vision
-
-**Web Development**
-
-React &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; FastAPI &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Tailwind CSS
-
-**Cloud & DevOps**
-
-AWS &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; Jenkins &nbsp;|&nbsp; Ansible
-
-**Networking & Systems**
-
-TCP/IP &nbsp;|&nbsp; Cybersecurity Concepts &nbsp;|&nbsp; PowerShell
-
-**Tools & Platforms**
-
-Git &nbsp;|&nbsp; Bitbucket &nbsp;|&nbsp; Jira &nbsp;|&nbsp; Confluence &nbsp;|&nbsp; Linux
-
----
-
 ### GitHub Stats
 
 <div align="center">
